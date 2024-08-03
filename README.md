@@ -80,13 +80,13 @@ Exploring Walmart Sales Table Data that are present in the walmartsaleportfolio 
 
 		**Note:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
 
-![Alternative Text](assets/images/Findings Q3.png)  the city with the largest revenue
+![Alternative Text](assets/images/Findings Q3.png)  
 
 •	**The largest revenue city.**   
 
 		**Note:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
 
-![Alternative Text](assets/images/Findings Q4.png) average sales
+![Alternative Text](assets/images/Findings Q4.png) 
 
 •	**Checking the product line is above or below average sales in terms of "GOOD" or "BAD".**   
 
@@ -112,7 +112,7 @@ Exploring Walmart Sales Table Data that are present in the walmartsaleportfolio 
 
 		**Note:** Member type customer brings more revenue compare to normal.
 
-![Alternative Text](assets/images/Findings Q8.png 
+![Alternative Text](assets/images/Findings Q8.png) 
 
 ### 3. Customer Analysis 
 
@@ -120,19 +120,19 @@ Exploring Walmart Sales Table Data that are present in the walmartsaleportfolio 
 
 		**Note:** Gender per branch is more or less the same hence, I don't think has an effect of the sales per branch and other factors.
 
-![Alternative Text](assets/images/Findings Q9.png 
+![Alternative Text](assets/images/Findings Q9.png)
 
 •	**Finding which time of the day do customers give most ratings.**   
 
 		**Note:** Looks like time of the day does not really affect the rating, its more or less the same rating each time of the day.
 
-![Alternative Text](assets/images/Findings Q10.png 
+![Alternative Text](assets/images/Findings Q10.png)
 
 •	**Finding which time of the day do customers give most ratings per branch.**   
 
 		**Note:** Branch A and C are doing well in ratings, branch B needs to do a little more to get better ratings.
 
-![Alternative Text](assets/images/Findings Q11.png
+![Alternative Text](assets/images/Findings Q11.png)
 
 ### 4. Revenue and Profit Analysis 
 
@@ -140,7 +140,7 @@ Exploring Walmart Sales Table Data that are present in the walmartsaleportfolio 
 
 		**Note:** Very few have less than 100 count.
 
-![Alternative Text](assets/images/Findings Q12.png 
+![Alternative Text](assets/images/Findings Q12.png) 
 
 ## Conclusion
 This project provides a comprehensive analysis of Walmart's sales data, leveraging feature engineering and exploratory data analysis techniques. The insights gained from this analysis are intended to inform strategic decisions that can enhance sales performance, optimize product offerings, and ultimately improve profitability. The findings will be used to create visual dashboards and reports for stakeholders, providing a clear and actionable summary of the data analysis results.
