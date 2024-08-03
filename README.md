@@ -62,94 +62,94 @@ Exploring Walmart Sales Table Data that are present in the walmartsaleportfolio 
 
 ## Key Findings
 ### 1. Exploratory Data Analysis
-•	**In which city is each branch.**
+• **In which city is each branch.**
 
-		**Note:** Yangon has A branch, Naypyitaw has B branch, and Mandalay has C branch.
+**Insight:** Yangon has A branch, Naypyitaw has B branch, and Mandalay has C branch.
 
 ![Alternative Text](assets/images/Findings Q1.png)
 
 ### 2. Product Analysis 
 
-•	**The most common payment method.**   
+• **The most common payment method.**   
 
-		**Note:** Cash is the most common method compare to other count.
+**Insight:** Cash is the most common method compare to other count.
 
 ![Alternative Text](assets/images/Findings Q2.png)  
 
-•	**The most selling product line.**   
+• **The most selling product line.**   
 
-		**Note:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
+**Insight:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
 
 ![Alternative Text](assets/images/Findings Q3.png)  
 
-•	**The largest revenue city.**   
+• **The largest revenue city.**   
 
-		**Note:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
+**Insight:** Fashion accessories has 178 salescount, second, is food & beverages which is 174, and third electronic accessories which is 169.
 
 ![Alternative Text](assets/images/Findings Q4.png) 
 
-•	**Checking the product line is above or below average sales in terms of "GOOD" or "BAD".**   
+• **Checking the product line is above or below average sales in terms of "GOOD" or "BAD".**   
 
-		**Note:** All 6 product line are below average sales. walmart should focus on improving the sales.
+**Insight:** All 6 product line are below average sales. walmart should focus on improving the sales.
 
 ![Alternative Text](assets/images/Findings Q5.png)
 
-•	**Finding which branch sold more products than average product sold.**   
+• **Finding which branch sold more products than average product sold.**   
 
-		**Note:** Branch A(Yangon) sold more product 
+**Insight:** Branch A(Yangon) sold more product 
 
 ![Alternative Text](assets/images/Findings Q6.png) 
 
 ### 3. Sales Analysis 
 
-•	**Number of sales made in each time of the day per weekday.**   
+• **Number of sales made in each time of the day per weekday.**   
 
-		**Note:** Evenings experience most sales, the stores are filled during the evening hours.
+**Insight:** Evenings experience most sales, the stores are filled during the evening hours.
 
 ![Alternative Text](assets/images/Findings Q7.png)  
 
-•	**Finding which of the customer types brings the most revenue.**   
+• **Finding which of the customer types brings the most revenue.**   
 
-		**Note:** Member type customer brings more revenue compare to normal.
+**Insight:** Member type customer brings more revenue compare to normal.
 
 ![Alternative Text](assets/images/Findings Q8.png) 
 
 ### 3. Customer Analysis 
 
-•	**Finding the gender distribution per branch.**   
+• **Finding the gender distribution per branch.**   
 
-		**Note:** Gender per branch is more or less the same hence, I don't think has an effect of the sales per branch and other factors.
+**Insight:** Gender per branch is more or less the same hence, I don't think has an effect of the sales per branch and other factors.
 
 ![Alternative Text](assets/images/Findings Q9.png)
 
-•	**Finding which time of the day do customers give most ratings.**   
+• **Finding which time of the day do customers give most ratings.**   
 
-		**Note:** Looks like time of the day does not really affect the rating, its more or less the same rating each time of the day.
+**Insight:** Looks like time of the day does not really affect the rating, its more or less the same rating each time of the day.
 
 ![Alternative Text](assets/images/Findings Q10.png)
 
-•	**Finding which time of the day do customers give most ratings per branch.**   
+• **Finding which time of the day do customers give most ratings per branch.**   
 
-		**Note:** Branch A and C are doing well in ratings, branch B needs to do a little more to get better ratings.
+**Insight:** Branch A and C are doing well in ratings, branch B needs to do a little more to get better ratings.
 
 ![Alternative Text](assets/images/Findings Q11.png)
 
 ### 4. Revenue and Profit Analysis 
 
-•	**Finding COGs.**   
+• **Finding COGs.**   
 
-		**Note:** Very few have less than 100 count.
+**Insight:** Very few have less than 100 count.
 
 ![Alternative Text](assets/images/Findings Q12.png) 
 
 ## Conclusion
 This project provides a comprehensive analysis of Walmart's sales data, leveraging feature engineering and exploratory data analysis techniques. The insights gained from this analysis are intended to inform strategic decisions that can enhance sales performance, optimize product offerings, and ultimately improve profitability. The findings will be used to create visual dashboards and reports for stakeholders, providing a clear and actionable summary of the data analysis results.
 ## Recommended Analysis
-•	Further analysis of customer type and feedback to identify areas for product or service improvement.
+• Further analysis of customer type and feedback to identify areas for product or service improvement.
 
-•	Exploration of new market opportunities or product lines to stimulate sales growth.
+• Exploration of new market opportunities or product lines to stimulate sales growth.
 
-•	Implementation of predictive analytics to forecast future sales trends and inform strategic planning.
+• Implementation of predictive analytics to forecast future sales trends and inform strategic planning.
 
 ## Reflection
 This project highlights the importance of data-driven decision-making in identifying business challenges and opportunities. The use of SQL for data extraction and analysis enabled a detailed examination of various aspects of the business, providing a solid foundation for strategic improvements.
